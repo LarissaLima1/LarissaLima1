@@ -1,4 +1,4 @@
-### Olá!! Eu sou a Larissa Lima 1 faço programação web
+### Olá!! Eu sou a Larissa Lima e faço programação web
 <div align="center">
   <a href="https://github.com/LarissaLima1">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LarissaLima1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
